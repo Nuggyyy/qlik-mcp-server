@@ -28,6 +28,9 @@ dependencies = [
     "websocket-client>=1.6.0",
     "python-dotenv>=1.0.0",
     "pydantic>=2.0.0",
+    "asyncio>=4.0.0",
+    "logging>=0.4.9.6",
+    "websockets>=15.0.1",
 ]
 
 [project.urls]

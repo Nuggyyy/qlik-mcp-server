@@ -1,0 +1,6 @@
+{
+    "namespace": "HYBRID_CONNECTION_NAMESPACE",
+    "path": "HYBRID_CONNECTION_ENTITY_NAME",
+    "keyrule": "SHARED_ACCESS_KEY_NAME",
+    "key": "SHARED_ACCESS_PRIMARY_KEY"
+ }
